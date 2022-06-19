@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TariRahil
 - 👀 I’m interested in developing new app, learning new tech, working in team, ...
-- 🌱 I’m currently learning Git!!!
+- 🌱 I’m currently learning DevOps!!!
 - 💞️ I’m looking to collaborate on startups and sharing new ideas.
 - 📫 How to reach me ...
 
